@@ -2,9 +2,9 @@
 
 import Image from "next/image";
 import styles from "./page.module.css";
-import { PrimaryInputs } from "./components/primary-input";
+import { PrimaryInputs } from "../components/primary-input";
 import { useState } from "react";
-import { ButtonPrimary } from "./components/button-primary";
+import { ButtonPrimary } from "../components/button-primary";
 
 export default function Home() {
 
