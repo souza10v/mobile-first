@@ -1,1 +1,48 @@
 
+FLEX BOX
+
+DISPLAY FLEX
+
+FLEX DIRECTION - diz a ordem que os componentes filgos se alinnham
+    row
+    column
+    row-reverse
+    column-reverse  
+
+FLEX WARP
+    WRAP
+    NO WRAP
+    WRAP REVERSE
+    
+FLEX FLOW
+    ROW WRAP
+    COLUMN WRAP
+
+JUSTIFY CONTENT
+    CENTER
+    SPACE-AROUND    
+    FLEX-START
+    FLEX-END
+    SPACE-BETWEEN
+
+ALIGN ITEMS
+    ROW 
+    COLUMN
+
+
+    flex-direction column
+    justify-content: Y;
+    align-items: X;
+
+    flex-direction row
+    justify-content: X;
+    align-items: Y;
+
+
+
+    justify-content: center;
+        
+    align-items: center;
+
+
+    flex-direction e justifi content diferenca
